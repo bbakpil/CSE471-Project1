@@ -5,8 +5,7 @@ Flanging is an audio effect that combines two identical signals with one slightl
 ### Supported Components
 	<instrument instrument="AdditiveInstrument">
 		<!-- Intro -->
-		<note measure="1" beat="1" duration="1" note="C3" h1=".5" adsr="0 0 0 3"/>
-		<note measure="1" beat="1.5" duration="1" note="E3" h1=".5" adsr="0 0 0 3"/>
+			<note measure="1" beat="1" duration="1" note="C3" h1=".5" flanging="0.5" adsr="0 0 0 3"/>
 
 (1) Polyphony: Ability of an instrument or device to produce multiple sounds or notes simultaneously.
 
