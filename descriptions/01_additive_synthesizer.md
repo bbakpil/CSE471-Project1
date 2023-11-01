@@ -19,7 +19,7 @@ An additive synthesizer generates sound by adding together multiple sinusoidal w
 ### Grading Criteria
 10 - Sinusoid playback on demand from the sequencer
 
-
+: works fine
 
 20 - Definition of all harmonics
 
