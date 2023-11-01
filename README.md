@@ -1,3 +1,6 @@
 # CSE471-Project1
-CSE471 Project 1
-# CSE471-Project1
+## Group Member: Pilseo Park
+Effects: Pilseo Park
+Additive Synthesis: Pilseo Park
+## Format of Score Files
+
