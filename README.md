@@ -26,3 +26,5 @@ Additive Synthesis: Pilseo Park
 
 [03_flanging_effect](https://github.com/bbakpil/CSE471-Project1/assets/144920495/1745dfa1-19ad-4c51-8b3c-a5666c105780)
 
+### Component Descriptions
+##### Component description files are in desctiptions folder
