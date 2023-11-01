@@ -19,16 +19,16 @@ An additive synthesizer generates sound by adding together multiple sinusoidal w
 ### Grading Criteria
 10 - Sinusoid playback on demand from the sequencer
 
-: works fine
+- works fine
 
 20 - Definition of all harmonics
 
-: 2 harmonics are included. When 3 harmonic sound is generated, the sound breaks up
+- 2 harmonics are included. When 3 harmonic sound is generated, the sound breaks up
 
 30 - Envelope generation
 
-: works fine
+- works fine
 
 35 - Polyphony
 
-: works fine
+- works fine
