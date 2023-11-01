@@ -10,6 +10,7 @@ Additive Synthesis: Pilseo Park
 
 ### Score Files
 ##### Score files are in score folder
+The backbone of the score file was created through generative AI, and modifications were made on top of that score file.
 
 01_full: Full score file
 
