@@ -39,4 +39,4 @@ Shorter piece file for flanging effect: [03_flanging_effect.score](https://githu
 
 [01_additive_synthesizer](https://github.com/bbakpil/CSE471-Project1/blob/main/descriptions/01_additive_synthesizer.md)
 
-[02_flanging_effect](https://github.com/bbakpil/CSE471-Project1/blob/main/descriptions/02_effect.md)
+[02_effect](https://github.com/bbakpil/CSE471-Project1/blob/main/descriptions/02_effect.md)
