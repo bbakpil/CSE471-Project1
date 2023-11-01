@@ -16,7 +16,7 @@ Additive Synthesis: Pilseo Park
 03_flanging_effect: Shorter piece file for flanging effect
 
 ### Audio Files
-[01_full](https://github.com/bbakpil/CSE471-Project1/assets/144920495/f19dff84-7ff0-4d3f-b6bd-acb6aa275091)
+[01_full] (https://github.com/bbakpil/CSE471-Project1/assets/144920495/f19dff84-7ff0-4d3f-b6bd-acb6aa275091)
 
 02_additive_synthesizer
 https://github.com/bbakpil/CSE471-Project1/assets/144920495/314ed339-81aa-4491-85fb-2c9e121a2df7
